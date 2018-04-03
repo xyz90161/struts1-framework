@@ -1,4 +1,4 @@
-# struts1-framework
+# struts1-json-framework
 基於struts1</br>
 CommonAction類別繼承原Action類別後實作execute方法並在execute方法內加上錯誤處理與回傳json處理</br>
 繼承CommonAction的類別因CommonAction實作ICommonAction介面並將doProcess的方法設為抽象方法，</br>
